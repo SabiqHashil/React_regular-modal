@@ -1,3 +1,9 @@
+
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=sabiqhashil.React_regular-modal" alt="sabiqhashil" /> </p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
